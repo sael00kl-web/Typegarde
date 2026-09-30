@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TypeGuard</string>
+    <string name="a11y_desc">پاک کردن کلمات ممنوع هنگام تایپ. فقط برای استفاده شخصی.</string>
+</resources>
